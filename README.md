@@ -4,11 +4,11 @@
    some versions of elasticsearch use a different version of lucene. Build from a branch that supports your elasticsearch version
    ex: elastic 6.5 uses lucene 7.5 so i built lucene off of 7.5  
 # 2. Files
-## 2.1 ee folder goes here  
+## 2.1 ee folder goes here  common/java/org/apache/lucene/analysis
 ![idea64_2019-02-21_15-49-26](https://user-images.githubusercontent.com/14272566/53173692-d85e6980-35f0-11e9-8a82-58cc131e3c5d.png)  
-## 2.2 EstonianStemmer file goes here  
+## 2.2 EstonianStemmer file goes here  common/java/org/tartarus/snowball/ext
 ![idea64_2019-02-21_15-55-40](https://user-images.githubusercontent.com/14272566/53173855-296e5d80-35f1-11e9-8ee3-57dd36789416.png)  
-## 2.3 Add ee folder and put stopwords file here  
+## 2.3 Add ee folder and put stopwords file here  common/resources/org/apache/lucene/analysis/ee
 ![idea64_2019-02-21_16-00-16](https://user-images.githubusercontent.com/14272566/53174162-ce893600-35f1-11e9-834a-088f63e89e54.png)  
 ## 2.4 Build lucene  
 # 3. After building
