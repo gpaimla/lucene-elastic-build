@@ -8,7 +8,7 @@
 ![idea64_2019-02-21_15-49-26](https://user-images.githubusercontent.com/14272566/53173692-d85e6980-35f0-11e9-8a82-58cc131e3c5d.png)  
 ## 2.2 EstonianStemmer file goes here: common/java/org/tartarus/snowball/ext
 ![idea64_2019-02-21_15-55-40](https://user-images.githubusercontent.com/14272566/53173855-296e5d80-35f1-11e9-8ee3-57dd36789416.png)  
-## 2.3 Add ee folder and put the stopwords file here: common/resources/org/apache/lucene/analysis/ee
+## 2.3 Add the ee folder and put the stopwords file here: common/resources/org/apache/lucene/analysis/ee
 ![idea64_2019-02-21_16-00-16](https://user-images.githubusercontent.com/14272566/53174162-ce893600-35f1-11e9-834a-088f63e89e54.png)  
 ## 2.4 Build lucene  
 # 3. After building
