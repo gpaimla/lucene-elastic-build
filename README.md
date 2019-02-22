@@ -59,7 +59,7 @@ namedStopWords.put("_estonian_", EstonianAnalyzer.getDefaultStopSet());
 ## 2.4 Add the EstonianAnalyzerProvider.java file
   ### The folder where the file goes  
   ![idea64_2019-02-21_16-36-31](https://user-images.githubusercontent.com/14272566/53176506-e0210c80-35f6-11e9-8e2d-5af3dcda3f3e.png)  
-# 3. Change the default analysers jar file thats downloaded by gradle
+# 3. Change the default analyzers jar file thats downloaded by gradle
 ### Navigate to you gradle home folder, then navigate to the lucene-analyzers-common folder
 ### My path looks like this on windows: C:\Users\gm\\.gradle\caches\modules-2\files-2.1\org.apache.lucene\lucene-analyzers-common\7.5.0
 ![explorer_2019-02-21_16-49-39](https://user-images.githubusercontent.com/14272566/53177428-b49f2180-35f8-11e9-9ac3-a856f48ef2db.png)
